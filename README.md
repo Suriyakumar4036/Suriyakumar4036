@@ -52,11 +52,9 @@ A secure digital wallet application supporting smooth transactional flow logs, p
 ### GitHub Activity &amp; Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suriyakumar4036&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Surya Kumar GitHub Stats" />
+  <img src="https://metrics.lecoq.io/Suriyakumar4036?base.activity=0&amp;base.community=0&amp;base.repositories=0&amp;base.metadata=0&amp;languages=1&amp;languages.limit=6&amp;config.cache=0&amp;v=2" alt="Surya Kumar GitHub Metrics" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suriyakumar4036&layout=compact&theme=radical&hide_border=true" alt="Surya Kumar Top Languages" />
-  <br /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Suriyakumar4036&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Surya Kumar Trophies" />
+  <img src="https://streak-stats.demolab.com?user=Suriyakumar4036&amp;theme=radical&amp;hide_border=true&amp;v=2" alt="Surya Kumar Contribution Streak" />
 </div>
 
 ---
