@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" width="100%" alt="Suriya Kumar R - Full Stack Developer &amp; Architect Banner" />
+  <img src="header.svg?v=2" width="100%" alt="Suriya Kumar R - Full Stack Developer &amp; Architect Banner" />
 </div>
 
 <br />
@@ -56,17 +56,11 @@ A secure digital wallet application supporting smooth transactional flow logs, p
 ### GitHub Activity &amp; Statistics
 
 <div align="center">
-
-![Surya Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suriyakumar4036&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-<br />
-
-![Surya Kumar Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suriyakumar4036&layout=compact&theme=radical&hide_border=true)
-
-<br />
-
-![Surya Kumar Trophies](https://github-profile-trophy.vercel.app/?username=Suriyakumar4036&theme=radical&no-bg=true&no-frame=true&margin-w=15)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Suriyakumar4036&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true" alt="Surya Kumar GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suriyakumar4036&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Surya Kumar Top Languages" />
+  <br /><br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suriyakumar4036&amp;theme=radical&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15" alt="Surya Kumar Trophies" />
 </div>
 
 ---
