@@ -1,56 +1,43 @@
-# ⚡ SURYA KUMAR | FULL STACK DEVELOPER & ARCHITECT
+# SURIYA KUMAR R
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Building+Scalable+AI+Applications;DevOps+%26+Cloud+Automation" alt="Typing SVG" />
-</p>
+Full Stack Developer and Software Architect
 
 ---
 
-### 🚀 About Me
-I am a passionate software developer and architect focusing on building premium user experiences, robust backend architectures, and production-ready AI tools. I enjoy solving complex scalability challenges, implementing clean code architectures, and participating in open-source collaboration.
+### Core Expertise
+I am a software developer and architect focusing on building scalable backend architectures, interactive user interfaces, and robust cloud deployments. My focus is on writing clean, maintainable code and solving complex performance challenges.
 
 ---
 
-### 🛠️ Technical Skillset
+### Technical Skills
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4 align="center">💻 Frontend</h4>
-      <ul>
-        <li>JavaScript (ES6+)</li>
-        <li>TypeScript</li>
-        <li>React.js / Next.js</li>
-        <li>HTML5 / CSS3 (Tailwind)</li>
-        <li>Redux Toolkit</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h4 align="center">⚙️ Backend & DB</h4>
-      <ul>
-        <li>Node.js / Express</li>
-        <li>Python (FastAPI, Flask)</li>
-        <li>Java (Spring Boot)</li>
-        <li>MongoDB / PostgreSQL</li>
-        <li>Redis Caching</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h4 align="center">🛡️ Cloud & DevOps</h4>
-      <ul>
-        <li>Docker Containers</li>
-        <li>GitHub Actions CI/CD</li>
-        <li>Firebase Services</li>
-        <li>AWS (S3, EC2)</li>
-        <li>REST API Design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Backend Frameworks**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Frontend Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+**Database and Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Performance Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suriyakumar4036&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -63,9 +50,7 @@ I am a passionate software developer and architect focusing on building premium 
 
 ---
 
-### 📬 Get In Touch
-*   **Email**: suriyakumar4036@gmail.com
-*   **GitHub**: [@Suriyakumar4036](https://github.com/Suriyakumar4036)
-*   **LinkedIn**: [Surya Kumar](https://www.linkedin.com/)
-
-<!-- trigger rebuild -->
+### Professional Contacts
+*   Email: suriyakumar4036@gmail.com
+*   GitHub: [Suriyakumar4036](https://github.com/Suriyakumar4036)
+*   LinkedIn: [Surya Kumar](https://www.linkedin.com/in/suriyakumar4036/)
