@@ -1,54 +1,73 @@
-# SURIYA KUMAR R
+<div align="center">
+  <img src="header.svg" width="100%" alt="Suriya Kumar R - Full Stack Developer &amp; Architect Banner" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Suriya+Kumar+R;Full+Stack+Developer;Software+Architect" alt="Typing SVG" />
-</p>
+<br />
 
----
+### Full Stack Developer &amp; Software Architect
 
-### Core Expertise
-I am a software developer and architect focusing on building scalable backend architectures, interactive user interfaces, and robust cloud deployments. My focus is on writing clean, maintainable code and solving complex performance challenges.
-
----
-
-### Technical Skills
-
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Backend Frameworks**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**Frontend Frameworks**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-
-**Database and Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+Software developer and architect specializing in designing and deploying responsive web interfaces, scalable API integrations, and robust cloud configurations. Focused on writing optimized code, setting up DevOps pipelines, and implementing high-performance developer standards.
 
 ---
 
-### GitHub Performance Metrics
+### Core Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suriyakumar4036&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suriyakumar4036&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+#### Languages &amp; Frameworks
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suriyakumar4036&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+#### Web Frontend &amp; State Management
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+
+#### Backend, Automation &amp; Databases
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+#### Cloud, Containers &amp; Orchestration
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+
+---
+
+### Featured Projects
+
+#### [Smart AI Resume Analyser](https://github.com/Suriyakumar4036/smart-ai-resume-analyser)
+An intelligence recruitment assistant featuring automated multi-format parsing, keyword gap extraction, performance rating metrics, and career recommendation feedback.
+* **Tech**: Next.js, FastAPI, PostgreSQL, AWS, Docker
+
+#### [Accerdian Dashboard](https://github.com/Suriyakumar4036/Accerdian-dashboard-Front-end-project-)
+A corporate administration interface focusing on rendering optimized financial analytics charts, tabular grid views, data metrics, and responsive sidebar options.
+* **Tech**: React.js, Chart.js, Redux, Tailwind CSS
+
+#### [UniPay Wallet](https://github.com/Suriyakumar4036/unipay)
+A secure digital wallet application supporting smooth transactional flow logs, premium wallet balance visualizations, history listings, and dynamic authorization checks.
+* **Tech**: TypeScript, React, Tailwind CSS, Express, MongoDB
+
+---
+
+### GitHub Activity &amp; Statistics
+
+<div align="center">
+
+![Surya Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suriyakumar4036&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+<br />
+
+![Surya Kumar Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suriyakumar4036&layout=compact&theme=radical&hide_border=true)
+
+<br />
+
+![Surya Kumar Trophies](https://github-profile-trophy.vercel.app/?username=Suriyakumar4036&theme=radical&no-bg=true&no-frame=true&margin-w=15)
+
+</div>
 
 ---
 
